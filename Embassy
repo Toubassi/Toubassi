@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html> <link href="style.css" rel="stylesheet" type="text/css">
+  <h2 class="title">
+    Palestinain Embassy in Greece 
+  </h2>
+  <hr>
+  <nav class="nav">
+    <div class="container">
+    
+      <div class="item"> <a href="/Palestinian-Embassy#in.html" target="_self"> Home </a></div>
+      <div class="item"> Events </div>
+      <div class="item"> About us </div> 
+      <div class="item"> News Paper </div> 
+      <div class="item"> The Ambassador </div> 
+    </div>
+  </nav>
+  <hr>
+  <article>
+    123456
+    
+  </article>
+  <body>
+    <script src="script.js"></script>
+  </body>
+  <footer>
+    <hr>
+    <ul>
+      <li>Contact us</li>
+      <li>facebook</li>
+      <li>youtube</li>
+    </ul>
+  </footer>
+</html>
